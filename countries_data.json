@@ -1,0 +1,607 @@
+[
+  {
+    "country": "Austria",
+    "purpose_name": [
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "purpose_name": [
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "purpose_name": [
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "purpose_name": [
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Korea",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "purpose_name": [
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Slovak Republic",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "purpose_name": [
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Material relief assistance and services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Multisector aid",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      },
+      {
+        "purpose_name": "Strengthening civil society",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "purpose_name": [
+      {
+        "purpose_name": "Higher education",
+        "count": 1
+      },
+      {
+        "purpose_name": "Social/ welfare services",
+        "count": 1
+      }
+    ]
+  }
+]
